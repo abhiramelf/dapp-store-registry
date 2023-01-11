@@ -92,12 +92,12 @@
     },
     {
       "name": "TestSwap",
-      "description": "uckjcguiasgcasc saucasgcusgcuisa uiasgcuiasgcuasgcu",
+      "description": "ioofoiehfioejfophewf ewfjioehfhf98efj efheufheofheuihfjkegfoe",
       "dappId": "app.swap.dapp",
       "minAge": 18,
       "appUrl": "https://example.com",
-      "isForMatureAudience": false,
-      "isSelfModerated": true,
+      "isForMatureAudience": true,
+      "isSelfModerated": false,
       "language": "en",
       "version": "0.1",
       "images": {
