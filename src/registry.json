@@ -92,31 +92,31 @@
     },
     {
       "name": "TestSwap",
-      "description": "ioofoiehfioejfophewf ewfjioehfhf98efj efheufheofheuihfjkegfoe",
+      "description": "fowdjviosdopidhfjipd jeoifhfuwqhdfioahdpwq oahdawghdinqwoiudhwq980d",
       "dappId": "app.swap.dapp",
       "minAge": 18,
-      "appUrl": "https://example.com",
-      "isForMatureAudience": true,
-      "isSelfModerated": false,
+      "appUrl": "https://meroku-build-dev.s3.ap-south-1.amazonaws.com/app.swap.dapp/build.zip",
+      "isForMatureAudience": false,
+      "isSelfModerated": true,
       "language": "en",
       "version": "0.1",
       "images": {
-        "logo": "https://example.com/logo.png",
-        "banner": "https://example.com/banner.png",
+        "logo": "https://meroku-app-images-dev.s3.ap-south-1.amazonaws.com/app.swap.dapp/logo.png",
+        "banner": "https://meroku-app-images-dev.s3.ap-south-1.amazonaws.com/app.swap.dapp/banner.png",
         "screenshots": [
-          "https://example.com"
+          "https://meroku-app-images-dev.s3.ap-south-1.amazonaws.com/app.swap.dapp/screenshots-0.png"
         ]
       },
       "isListed": true,
       "repoUrl": "https://github.com/meroku-dao/",
-      "listDate": "2023-01-11",
+      "listDate": "2023-01-13",
       "availableOnPlatform": [
         "web"
       ],
       "developer": {
         "legalName": "Abhiram A",
         "logo": "https://avatars.githubusercontent.com/u/12810085?v=4",
-        "website": "https://github.com/abhiramelf",
+        "website": "https://meroku.store",
         "privacyPolicyUrl": "https://example.com",
         "support": {
           "url": "https://example.com"
